@@ -1,7 +1,7 @@
 import React from 'react';
 import { SafeAreaView, View, Text, ScrollView } from 'react-native';
 import { introduction } from '../styles';
-import { TopicItem } from '../components';
+import { TopicItem } from '../components/index';
 
 const topics = [
     {

@@ -18,7 +18,7 @@ export const jobItem = StyleSheet.create({
         margin: 7,
         borderRadius: 6,
         borderWidth: 1,
-        borderColor: '#bdbdbd',,
+        borderColor: '#bdbdbd',
     },
     jobname: {
         fontWeight: 'bold',
